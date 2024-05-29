@@ -1,26 +1,37 @@
 # GENPASS
-Another password generator.
-User can choose between different options
+GUI version of my password generator.
+On first start, the user can choose his language: English or French.
+His selection is saved in a file, so that the user doesn't have to choose it again at the next start.
 
 
 ## Screenshot
 <div align="center">
     <img
-        src="https://github.com/AyckinnLisa/genpass-CLI/blob/main/screenshot.png"
+        src="https://github.com/AyckinnLisa/genpass_gui/blob/main/screenshots/select_lang_screen.png"
+        alt="DEMO"
+        style="width:60%">
+</div>
+<div align="center">
+    <img
+        src="https://github.com/AyckinnLisa/genpass_gui/blob/main/screenshots/fr_screen.png"
+        alt="DEMO"
+        style="width:60%">
+</div>
+<div align="center">
+    <img
+        src="https://github.com/AyckinnLisa/genpass_gui/blob/main/screenshots/en_screen.png"
         alt="DEMO"
         style="width:60%">
 </div>
 
 
-## Usage
-1. Download [Python](https://www.python.org/downloads/).
-2. Open the terminal for Unix or CMD for Windows
-3. Go to the program folder : ```cd /program_folder_path```
-4. Run the program : ```python3 genpass.py```
-5. To quit the program : CTRL+C or type : !q
+## Download app
+1. MacOSX : Here
+2. Linux : Coming soon
+3. Windows : Coming soon
 
 
 ## Changelog
-Version 1.0 - May 14' 2024
+Version 1.0 - May 20' 2024
 
 - Initial release
